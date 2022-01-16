@@ -1,0 +1,14 @@
+# игнорируем tmp
+tmp/
+
+#игонрируем _old
+*_old
+
+#игнорируем _backup
+*_backup
+
+#игнорируем Thumbs.db
+Thumbs.db
+
+#игнорируем .DS_Store
+.DS_Store
